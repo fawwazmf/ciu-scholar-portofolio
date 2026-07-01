@@ -8,11 +8,11 @@ Aplikasi web untuk mengelola dan menampilkan profil akademik dosen secara terpus
 
 ## Preview
 
-![Landing Page](screenshots/landing.png)
-![Direktori Dosen](screenshots/direktori.png)
-![Profil Dosen](screenshots/profil.png)
-![Dashboard Dosen](screenshots/dashboard.png)
-![Panel Admin](screenshots/admin.png)
+![Landing Page](screenshoots/landing.png)
+![Direktori Dosen](screenshoots/direktori.png)
+![Profil Dosen](screenshoots/profil.png)
+![Dashboard Dosen](screenshoots/dashboard.png)
+![Panel Admin](screenshoots/admin.png)
 
 ---
 
